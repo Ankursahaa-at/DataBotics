@@ -6,18 +6,8 @@ type, "conda install python=3.7 anaconda=custom"
 + Intsall latest version of Tensorflow, Keras, Nltk, Flask.
 + Open terminal from created Environment, Install pickle from Anaconda prompt.
 
-Few Steps left:
-
+install:
 conda install -c conda-forge pickle5
-
-Cd\
-D:
-cd Projects/499A-ChatBot-main
-cd Chatbot
-Python training.py
-
-python app.py
-
 conda install -c anaconda colorama
 
 -Ankur Saha
