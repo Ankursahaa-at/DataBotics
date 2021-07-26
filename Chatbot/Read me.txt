@@ -1,0 +1,23 @@
+Basic Requirement:
++ Install latest version of Anaconda
++ Form Anaconda Navigator create Python Environment with python 3.7 
+Note: If there 3.7 not available then click on Anaconda Prompt and 
+type, "conda install python=3.7 anaconda=custom"
++ Intsall latest version of Tensorflow, Keras, Nltk, Flask.
++ Open terminal from created Environment, Install pickle from Anaconda prompt.
+
+Few Steps left:
+
+conda install -c conda-forge pickle5
+
+Cd\
+D:
+cd Projects/499A-ChatBot-main
+cd Chatbot
+Python training.py
+
+python app.py
+
+conda install -c anaconda colorama
+
+-Ankur Saha
